@@ -1,4 +1,4 @@
-package ru.stqa.pfd.firsbox;
+package ru.stqa.pfd.firstbox;
 
 public class Rectangle {
 
