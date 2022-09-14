@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee84d2bd-d4a7-4820-9ff2-fe6e5ea7a6cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/sandbox/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/build/classes/java/main/MyFirstProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/build/distributions/sandbox.tar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/build/distributions/sandbox.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/build/libs/sandbox.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/build/scripts/sandbox" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/build/scripts/sandbox.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/MyFirstProgram.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstbox/src/main/java/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstbox/src/main/java/ru/stqa/pfd/firsbox/MyFirstProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +50,20 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Em0MXFzJRx0AIWN6xki1qYvN2g" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -73,6 +71,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.25316453" />
@@ -85,7 +84,7 @@
   </component>
   <component name="RunManager" selected="Application.MyFirstProgram">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFirstProgram" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pfd.firsbox.MyFirstProgram" />
       <module name="firstbox.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,5 +126,16 @@
       <updated>1663185406670</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
