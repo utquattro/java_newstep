@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ee84d2bd-d4a7-4820-9ff2-fe6e5ea7a6cd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstbox/out/production/classes/ru/stqa/pfd/firsbox/MyFirstProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstbox/out/production/classes/ru/stqa/pfd/firsbox/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstbox/out/production/classes/ru/stqa/pfd/firsbox/Square.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
