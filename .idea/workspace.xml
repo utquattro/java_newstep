@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ee84d2bd-d4a7-4820-9ff2-fe6e5ea7a6cd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstbox/src/main/java/ru/stqa/pfd/firsbox/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstbox/src/main/java/ru/stqa/pfd/firstbox/MyFirstProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstbox/src/main/java/ru/stqa/pfd/firsbox/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstbox/src/main/java/ru/stqa/pfd/firstbox/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstbox/src/main/java/ru/stqa/pfd/firsbox/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstbox/src/main/java/ru/stqa/pfd/firstbox/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstbox/out/production/classes/ru/stqa/pfd/firsbox/MyFirstProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstbox/out/production/classes/ru/stqa/pfd/firsbox/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstbox/out/production/classes/ru/stqa/pfd/firsbox/Square.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <command value="gradle --warning-mode none" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyFirstProgram">
+  <component name="RunManager" selected="TestNG.SquareTests">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pfd.firstbox.MyFirstProgram" />
       <module name="firstbox.main" />
@@ -110,8 +110,26 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="SquareTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="firstbox.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pfd.firstbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pfd.firstbox" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pfd.firstbox.SquareTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SquareTests" />
         <item itemvalue="Application.MyFirstProgram" />
         <item itemvalue="Gradle.firstbox" />
       </list>
