@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee84d2bd-d4a7-4820-9ff2-fe6e5ea7a6cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstbox/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/firstbox/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstbox/src/main/java/ru/stqa/pfd/firstbox/MyFirstProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstbox/src/test/java/ru/stqa/pfd/firstbox/GroupCreationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstbox/src/test/java/ru/stqa/pfd/firstbox/GroupCreationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +129,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupCreationTests.testUntitledTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GroupCreationTests.testGroupCreation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="firstbox.test" />
       <extension name="coverage">
         <pattern>
@@ -142,7 +139,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.stqa.pfd.firstbox" />
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pfd.firstbox.GroupCreationTests" />
-      <option name="METHOD_NAME" value="testUntitledTestCase" />
+      <option name="METHOD_NAME" value="testGroupCreation" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -171,7 +168,7 @@
       <list>
         <item itemvalue="TestNG.GroupCreationTests" />
         <item itemvalue="TestNG.SquareTests" />
-        <item itemvalue="TestNG.GroupCreationTests.testUntitledTestCase" />
+        <item itemvalue="TestNG.GroupCreationTests.testGroupCreation" />
         <item itemvalue="Application.MyFirstProgram" />
         <item itemvalue="Gradle.firstbox" />
       </list>
