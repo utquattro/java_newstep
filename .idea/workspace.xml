@@ -73,6 +73,9 @@
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.stqa.pfd.firstbox" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/addressbook-web-tests/scr" />
     </key>
@@ -85,32 +88,13 @@
       <command value="gradle --warning-mode none" />
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.GroupCreationTests">
+  <component name="RunManager" selected="TestNG.GroupDeletionTests.testGroupDeletionTests">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pfd.firstbox.MyFirstProgram" />
       <module name="firstbox.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="firstbox" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/firstbox" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--warning-mode none" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" value="" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
     </configuration>
     <configuration name="GroupCreationTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="firstbox.test" />
@@ -147,6 +131,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GroupDeletionTests.testGroupDeletion" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="firstbox.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pfd.firstbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pfd.firstbox" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pfd.firstbox.GroupDeletionTests" />
+      <option name="METHOD_NAME" value="testGroupDeletion" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SquareTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="firstbox.test" />
       <extension name="coverage">
@@ -166,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GroupDeletionTests.testGroupDeletionTests" />
         <item itemvalue="TestNG.GroupCreationTests" />
         <item itemvalue="TestNG.SquareTests" />
         <item itemvalue="TestNG.GroupCreationTests.testGroupCreation" />
         <item itemvalue="Application.MyFirstProgram" />
-        <item itemvalue="Gradle.firstbox" />
       </list>
     </recent_temporary>
   </component>
